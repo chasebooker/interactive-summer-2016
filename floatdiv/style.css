@@ -19,7 +19,7 @@ img {
 	background-color: red;
 	float: left;
 	width: 20%;
-	z-index: 5;
+	z-index: 1;
 	margin: 2%;
 }
 
